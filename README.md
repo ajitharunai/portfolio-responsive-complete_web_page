@@ -28,8 +28,8 @@
 </p>
 </p>
 
-<p>project demo 1 <a href="https://ajitharunai.github.io/Car-Game-using-js/">Car Racing Game</a>.</p>
-<p>project demo 2 <a href="https://car-game-using-js-kd43huuqg-ajitharunai.vercel.app/">Car Racing Game</a>.</p>
+<p>project demo 1 <a href="https://ajitharunai.github.io/portfolio-responsive-complete_web_page/">portfolio Webpage</a>.</p>
+<p>project demo 2 <a href="https://vercel.com/ajitharunai/portfolio-responsive-complete-web-page">portfolio Webpage</a>.</p>
 
 
 <p align="center">
